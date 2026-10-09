@@ -1,0 +1,15 @@
+# 1. Ingestão e Processamento de Dados
+datasets
+pillow
+tqdm
+
+# 2. Deep Learning e Machine Learning (All-CNN)
+tensorflow
+scikit-learn
+
+# 3. Visão Computacional
+opencv-python
+
+# 4. Visualização e Mapas de Calor (XAI)
+matplotlib
+seaborn
