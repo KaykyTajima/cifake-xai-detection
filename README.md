@@ -73,9 +73,3 @@ Este projeto supera a avaliação visual subjetiva aplicando um rigoroso protoco
 * **ROAR (Remove and Retrain):** Validação algorítmica global que envolve a re-inicialização e re-treinamento da arquitetura em bases adulteradas, garantindo mitigação do viés *Out-of-Distribution* (OOD).
 
 ---
-
-**Autor:** Kayky Carvalho Tajima  
-**Orientador:** Prof. Dr. Saúl de Castro Leite  
-**Instituição:** Centro de Matemática, Computação e Cognição (CMCC) - Universidade Federal do ABC (UFABC)  
-
-*Pesquisa desenvolvida sob fomento FAPESP (Bolsa no País - Regular - Iniciação Científica).*
